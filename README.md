@@ -1,8 +1,9 @@
 # Docker Images for bflat and bflata
+
 ## Images
 Built images can be found on dockerhub as:
-* [mihail8480/bflat](https://hub.docker.com/r/mihail8480/bflata)
-* [mihail8480/bflata](https://hub.docker.com/r/mihail8480/bflata)
+* [mihail8480/bflat](https://hub.docker.com/r/mihail8480/bflat) ![Docker Image Version (latest by date)](https://img.shields.io/docker/v/mihail8480/bflat?sort=semver)
+* [mihail8480/bflata](https://hub.docker.com/r/mihail8480/bflata) ![Docker Image Version (latest by date)](https://img.shields.io/docker/v/mihail8480/bflata?sort=semver)
 
 
 ## Usage
