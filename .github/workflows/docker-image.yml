@@ -19,6 +19,6 @@ jobs:
       with:
         submodules: recursive
     - name: Build the bflat image
-      run: ./bflat/build.sh
+      run: cd bflat && ./build.sh
     - name: Build the bflata image
-      run: ./bflata/build.sh
+      run: cd bflata && build.sh
